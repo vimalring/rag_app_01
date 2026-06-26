@@ -277,17 +277,9 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Antony Vijay**
+**VIMAL**
 
-Senior Product Designer | UX Engineer | AI Developer
 
-GitHub:
-https://github.com/yourusername
-
-LinkedIn:
-https://linkedin.com/in/yourprofile
-
----
 
 ## 📄 License
 
